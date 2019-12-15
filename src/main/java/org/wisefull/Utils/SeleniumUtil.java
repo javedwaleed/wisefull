@@ -19,35 +19,35 @@ public class SeleniumUtil {
         return driver;
     }
 
-    public WebElement findElement(By locator) {
-        return driver().findElement(locator);
-    }
+
 
     public void sendKeys(By locator, String text) {
         clear(locator);
-        findElement(locator).sendKeys(text);
+        driver().findElement(locator).sendKeys(text);
     }
     public void goTo(String url){driver().get(url);}
 
     public void clear(By locator) {
-        findElement(locator).clear();
+        driver().findElement(locator).clear();
     }
 
     public void click(By locator) {
-        findElement(locator).click();
+        driver().findElement(locator).click();
     }
 
     public String getText(By locator) {
-        return findElement(locator).getText();
+        return driver().findElement(locator).getText();
     }
 
     public boolean isDisplayed(By locator) {
-        return findElement(locator).isDisplayed();
+        return driver().findElement(locator).isDisplayed();
     }
 
     public List<WebElement> findElements(By locator) {
         return driver().findElements(locator);
     }
+
+    public String getCurrentUrl(){ return driver().getCurrentUrl();}
 
     public void waitForVisibility(By locator) {
         WebDriverWait wait = new WebDriverWait(driver(), SHORT_EXPLICIT_WAIT_TIME);
