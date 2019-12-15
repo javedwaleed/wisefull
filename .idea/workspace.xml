@@ -177,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576441889776</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Framework">
+      <created>1576442436565</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576442436565</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -198,10 +205,10 @@
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="2087" y="359" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576436280935" />
-    <state x="2053" y="28" key="CommitChangelistDialog2" timestamp="1576441888792">
+    <state x="2053" y="28" key="CommitChangelistDialog2" timestamp="1576442434921">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576441888792" />
+    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576442434921" />
     <state width="1557" height="117" key="GridCell.Tab.0.bottom" timestamp="1576440490970">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
@@ -238,10 +245,10 @@
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="1903" y="75" key="SettingsEditor/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576437710511" />
-    <state x="1992" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576441892123">
+    <state x="1992" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576442438231">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state x="1992" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576441892123" />
+    <state x="1992" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576442438231" />
     <state x="2211" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576435395121">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
