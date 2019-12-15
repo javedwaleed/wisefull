@@ -2,12 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f080eab1-4f27-4a86-bd35-792c8da148ea" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinCodeInsightSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestNG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/global.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Base/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Base/PageBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Base/TestBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Utils/ConfigReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Utils/SeleniumUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/wisefull/test/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Utils/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -37,6 +53,7 @@
   <component name="ProjectId" id="1V1yHcmcmUeDK2imKLTev90SH0J" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,7 +67,55 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/src/main/java/Driver.java" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Comp/Intellij Projects/New NAU Project" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Comp/Intellij Projects/Wisefull Academy/TestNG.xml">
+    <configuration name="HomePage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.wisefull.Pages.HomePage" />
+      <module name="Wisefull Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wisefull.Pages.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Comp/Intellij Projects/Wisefull Academy/TestNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wisefull Academy" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TestNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
+      <module name="Wisefull Academy" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Comp/Intellij Projects/Wisefull Academy/TestNG.xml" />
+        <item itemvalue="Application.HomePage" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -82,7 +147,28 @@
       <option name="project" value="LOCAL" />
       <updated>1576435587824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="first">
+      <created>1576435713189</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576435713189</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first">
+      <created>1576435838824</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576435838824</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first">
+      <created>1576435880181</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1576435880181</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -90,14 +176,62 @@
     <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2053" y="28" key="CommitChangelistDialog2" timestamp="1576435838222">
+    <state x="2119" y="99" key="#&lt;default&gt;" timestamp="1576437064692">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576435838222" />
-    <state x="1992" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576435841453">
+    <state x="2119" y="99" key="#&lt;default&gt;/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576437064692" />
+    <state x="2205" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1576438741441">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state x="1992" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576435841453" />
+    <state x="2205" y="139" key="#com.intellij.ide.util.MemberChooser/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576438741441" />
+    <state x="2087" y="359" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1576436280935">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2087" y="359" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576436280935" />
+    <state x="2053" y="28" key="CommitChangelistDialog2" timestamp="1576435890581">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576435890581" />
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom" timestamp="1576439223362">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439223362" />
+    <state width="1557" height="276" key="GridCell.Tab.0.center" timestamp="1576439223362">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439223362" />
+    <state width="1557" height="276" key="GridCell.Tab.0.left" timestamp="1576439223362">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439223362" />
+    <state width="1557" height="276" key="GridCell.Tab.0.right" timestamp="1576439223362">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439223362" />
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1576439223378">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439223378" />
+    <state width="1557" height="276" key="GridCell.Tab.1.center" timestamp="1576439223378">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439223378" />
+    <state width="1557" height="276" key="GridCell.Tab.1.left" timestamp="1576439223362">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439223362" />
+    <state width="1557" height="276" key="GridCell.Tab.1.right" timestamp="1576439223378">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="276" key="GridCell.Tab.1.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439223378" />
+    <state x="1903" y="75" key="SettingsEditor" timestamp="1576437710511">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="1903" y="75" key="SettingsEditor/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576437710511" />
+    <state x="1992" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576435904732">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state x="1992" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576435904732" />
     <state x="2211" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576435395121">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
