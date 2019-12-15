@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f080eab1-4f27-4a86-bd35-792c8da148ea" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/wisefull/Base/PageBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Base/PageBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/wisefull/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/wisefull/Utils/SeleniumUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Utils/SeleniumUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/wisefull/test/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/wisefull/test/HomePageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,12 +162,20 @@
       <option name="project" value="LOCAL" />
       <updated>1576439386187</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Framework">
+      <created>1576440653906</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1576440653906</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Framework" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2119" y="99" key="#&lt;default&gt;" timestamp="1576437064692">
@@ -186,10 +190,10 @@
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="2087" y="359" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576436280935" />
-    <state x="2053" y="28" key="CommitChangelistDialog2" timestamp="1576439385266">
+    <state x="2053" y="28" key="CommitChangelistDialog2" timestamp="1576440653165">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439385266" />
+    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576440653165" />
     <state width="1557" height="117" key="GridCell.Tab.0.bottom" timestamp="1576440490970">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
@@ -226,10 +230,10 @@
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="1903" y="75" key="SettingsEditor/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576437710511" />
-    <state x="1992" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576439388678">
+    <state x="1992" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576440656275">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state x="1992" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576439388678" />
+    <state x="1992" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576440656275" />
     <state x="2211" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576435395121">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
