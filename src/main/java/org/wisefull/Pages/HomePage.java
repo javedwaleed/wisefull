@@ -1,20 +1,14 @@
 package org.wisefull.Pages;
 
+import org.testng.annotations.Test;
 import org.wisefull.Base.PageBase;
 import org.wisefull.Utils.ConfigReader;
 
 public class HomePage extends PageBase {
-
-    public void goToHomePage(){
+    @Test
+    @Override
+    public void goToPage() {
         seleniumUtil.goTo(ConfigReader.getProperty("url"));
     }
-
-    @Override
-    public void waitForPageToLoad() {
-
-    }
-
-
-
-    }
+}
 

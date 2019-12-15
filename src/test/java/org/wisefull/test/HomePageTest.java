@@ -8,6 +8,6 @@ public class HomePageTest extends TestBase {
  HomePage homePage =new HomePage();
     @Test
     public void goToHomePage(){
-        homePage.goToHomePage();
+        homePage.goToPage();
     }
 }
