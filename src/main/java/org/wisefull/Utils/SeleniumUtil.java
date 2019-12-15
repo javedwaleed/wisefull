@@ -5,12 +5,13 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import org.testng.Assert;
 
 import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class SeleniumUtil {
-    private final long SHORT_EXPLICIT_WAIT_TIME = 5;
+    private final long SHORT_EXPLICIT_WAIT_TIME = 20;
 
     public static WebDriver driver() {
         WebDriver driver = Driver.getDriver();
@@ -47,7 +48,9 @@ public class SeleniumUtil {
         return driver().findElements(locator);
     }
 
-    public String getCurrentUrl(){ return driver().getCurrentUrl();}
+    public void AssertLink(String url){
+        Assert.assertTrue(driver().getCurrentUrl().equalsIgnoreCase(url));
+    }
 
     public void waitForVisibility(By locator) {
         WebDriverWait wait = new WebDriverWait(driver(), SHORT_EXPLICIT_WAIT_TIME);

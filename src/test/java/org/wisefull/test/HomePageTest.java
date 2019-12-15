@@ -10,4 +10,9 @@ public class HomePageTest extends TestBase {
     public void goToHomePage(){
         homePage.goToPage();
     }
+
+    @Test
+    public void goToAboutUs() throws InterruptedException {
+        homePage.AboutUsLink();
+    }
 }
