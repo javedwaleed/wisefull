@@ -20,8 +20,6 @@ public class SeleniumUtil {
         return driver;
     }
 
-
-
     public void sendKeys(By locator, String text) {
         clear(locator);
         driver().findElement(locator).sendKeys(text);

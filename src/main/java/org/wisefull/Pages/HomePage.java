@@ -6,6 +6,7 @@ import org.wisefull.Utils.ConfigReader;
 
 public class HomePage extends PageBase {
     private static By aboutUs=By.xpath("//*[@id=\"nav-menu-item-4506\"]/a/span/span");
+    private static By aboutUsTitle=By.className("eltdf-title-inner");
 
 
     @Override
@@ -17,14 +18,11 @@ public class HomePage extends PageBase {
 
     public void AboutUsLink() throws InterruptedException {
         goToPage();
-        seleniumUtil.waitForVisibility(aboutUs);
         seleniumUtil.click(aboutUs);
-        Thread.sleep(5000);
+        seleniumUtil.waitForVisibility(aboutUsTitle);
         seleniumUtil.AssertLink(ConfigReader.getProperty("aboutUsUrl"));
 
-
     }
-
 
 }
 
