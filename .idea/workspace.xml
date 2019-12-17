@@ -2,9 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f080eab1-4f27-4a86-bd35-792c8da148ea" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/ScreenShotsFolder/S-goToAboutUs 2019_12_16__08_46_11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CommonFile/AcademicsScreenshots/ScreenShotsgoToAboutUs 2019_12_16__08_34_58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/CommonFile/AcademicsScreenshots/ScreenShotstest 2019_12_16__08_37_37.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.properties" beforeDir="false" afterPath="$PROJECT_DIR$/global.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/wisefull/Base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Base/TestBase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/wisefull/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Pages/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/wisefull/Utils/SeleniumUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Utils/SeleniumUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/wisefull/test/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/wisefull/test/HomePageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/wisefull/Base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/wisefull/Base/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/wisefull/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/wisefull/Pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/wisefull/Utils/SeleniumUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/wisefull/Utils/SeleniumUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/wisefull/test/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/wisefull/test/HomePageTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,15 +60,23 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/src/main/java/Driver.java" />
     <property name="ignore_missing_gitignore" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../NAU-Project" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RunManager" selected="TestNG.HomePageTest.goToAboutUs">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Comp\Intellij Projects\Wisefull Academy\src" />
+      <recent name="C:\Comp\Intellij Projects\Wisefull Academy" />
+      <recent name="C:\Comp\Intellij Projects\Wisefull Academy\.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Comp/Intellij Projects/Wisefull Academy/TestNG.xml">
     <configuration name="HomePage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.wisefull.Pages.HomePage" />
       <module name="Wisefull Academy" />
@@ -100,6 +118,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomePageTest.goToHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Wisefull Academy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.wisefull.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.wisefull.test" />
+      <option name="MAIN_CLASS_NAME" value="org.wisefull.test.HomePageTest" />
+      <option name="METHOD_NAME" value="goToHomePage" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
       <module name="Wisefull Academy" />
       <option name="SUITE_NAME" value="" />
@@ -119,8 +155,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.HomePageTest.goToAboutUs" />
         <item itemvalue="TestNG.C:/Comp/Intellij Projects/Wisefull Academy/TestNG.xml" />
+        <item itemvalue="TestNG.HomePageTest.goToHomePage" />
+        <item itemvalue="TestNG.HomePageTest.goToAboutUs" />
         <item itemvalue="Application.HomePage" />
       </list>
     </recent_temporary>
@@ -232,10 +269,18 @@
       <option name="project" value="LOCAL" />
       <updated>1576450466269</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Framework">
+      <created>1576509805029</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1576509805029</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
     <MESSAGE value="Framework" />
     <option name="LAST_COMMIT_MESSAGE" value="Framework" />
@@ -253,34 +298,39 @@
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="2087" y="359" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576436280935" />
-    <state x="3653" y="28" key="CommitChangelistDialog2" timestamp="1576450465565">
-      <screen x="3200" y="0" width="1600" height="860" />
+    <state x="2053" y="28" key="CommitChangelistDialog2" timestamp="1576551351895">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576446161856" />
+    <state x="453" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509804135" />
+    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576551351895" />
     <state x="3653" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450465565" />
-    <state width="1340" height="58" key="GridCell.Tab.0.bottom" timestamp="1576509757858">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="2180" y="187" key="FileChooserDialogImpl" timestamp="1576546453710">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="58" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509757858" />
-    <state width="1557" height="117" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576446070717" />
+    <state x="2180" y="187" key="FileChooserDialogImpl/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576546453710" />
+    <state width="1557" height="150" key="GridCell.Tab.0.bottom" timestamp="1576550769520">
+      <screen x="1600" y="0" width="1600" height="860" />
+    </state>
+    <state width="1557" height="378" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509862387" />
+    <state width="1557" height="150" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576550769520" />
     <state width="1557" height="276" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450472933" />
-    <state width="1340" height="58" key="GridCell.Tab.0.center" timestamp="1576509757858">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1557" height="150" key="GridCell.Tab.0.center" timestamp="1576550769520">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="58" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509757858" />
-    <state width="1557" height="117" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576446070717" />
+    <state width="1557" height="378" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509862387" />
+    <state width="1557" height="150" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576550769520" />
     <state width="1557" height="276" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450472933" />
-    <state width="1340" height="58" key="GridCell.Tab.0.left" timestamp="1576509757858">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1557" height="150" key="GridCell.Tab.0.left" timestamp="1576550769520">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="58" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509757858" />
-    <state width="1557" height="117" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576446070717" />
+    <state width="1557" height="378" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509862387" />
+    <state width="1557" height="150" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576550769520" />
     <state width="1557" height="276" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450472933" />
-    <state width="1340" height="58" key="GridCell.Tab.0.right" timestamp="1576509757858">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="1557" height="150" key="GridCell.Tab.0.right" timestamp="1576550769520">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
-    <state width="1340" height="58" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509757858" />
-    <state width="1557" height="117" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576446070717" />
+    <state width="1557" height="378" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509862387" />
+    <state width="1557" height="150" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576550769520" />
     <state width="1557" height="276" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450472933" />
     <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1576450472933">
       <screen x="3200" y="0" width="1600" height="860" />
@@ -306,9 +356,10 @@
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="1903" y="75" key="SettingsEditor/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576437710511" />
-    <state x="3592" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576450467781">
-      <screen x="3200" y="0" width="1600" height="860" />
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576509807608">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state x="392" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509807608" />
     <state x="1992" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576446164798" />
     <state x="3592" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450467781" />
     <state x="2211" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576435395121">

@@ -9,6 +9,7 @@ public class HomePageTest extends TestBase {
     @Test
     public void goToHomePage(){
         homePage.goToPage();
+
     }
 
     @Test
