@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f080eab1-4f27-4a86-bd35-792c8da148ea" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ScreenShotsFolder/S-goToAboutUs 2019_12_16__08_46_11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CommonFile/AcademicsScreenshots/ScreenShotsgoToAboutUs 2019_12_16__08_34_58.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/CommonFile/AcademicsScreenshots/ScreenShotstest 2019_12_16__08_37_37.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/global.properties" beforeDir="false" afterPath="$PROJECT_DIR$/global.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/wisefull/Base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/wisefull/Pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/wisefull/Utils/SeleniumUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/wisefull/Utils/SeleniumUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/wisefull/test/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/wisefull/test/HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/wisefull/Base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/wisefull/Base/TestBase.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/org/wisefull/Pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/wisefull/Pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/wisefull/Utils/SeleniumUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/wisefull/Utils/SeleniumUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/org/wisefull/test/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/wisefull/test/HomePageTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -276,14 +265,22 @@
       <option name="project" value="LOCAL" />
       <updated>1576509805029</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="implementing Screenshot on test fail">
+      <created>1576551411418</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1576551411418</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first" />
     <MESSAGE value="Framework" />
-    <option name="LAST_COMMIT_MESSAGE" value="Framework" />
+    <MESSAGE value="implementing Screenshot on test fail" />
+    <option name="LAST_COMMIT_MESSAGE" value="implementing Screenshot on test fail" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2119" y="99" key="#&lt;default&gt;" timestamp="1576437064692">
@@ -298,39 +295,39 @@
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="2087" y="359" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576436280935" />
-    <state x="2053" y="28" key="CommitChangelistDialog2" timestamp="1576551351895">
+    <state x="2053" y="28" key="CommitChangelistDialog2" timestamp="1576551410649">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="453" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509804135" />
-    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576551351895" />
+    <state x="2053" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576551410649" />
     <state x="3653" y="28" key="CommitChangelistDialog2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450465565" />
     <state x="2180" y="187" key="FileChooserDialogImpl" timestamp="1576546453710">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="2180" y="187" key="FileChooserDialogImpl/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576546453710" />
-    <state width="1557" height="150" key="GridCell.Tab.0.bottom" timestamp="1576550769520">
+    <state width="1557" height="150" key="GridCell.Tab.0.bottom" timestamp="1576553243735">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="378" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509862387" />
-    <state width="1557" height="150" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576550769520" />
+    <state width="1557" height="150" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576553243735" />
     <state width="1557" height="276" key="GridCell.Tab.0.bottom/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450472933" />
-    <state width="1557" height="150" key="GridCell.Tab.0.center" timestamp="1576550769520">
+    <state width="1557" height="150" key="GridCell.Tab.0.center" timestamp="1576553243735">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="378" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509862387" />
-    <state width="1557" height="150" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576550769520" />
+    <state width="1557" height="150" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576553243735" />
     <state width="1557" height="276" key="GridCell.Tab.0.center/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450472933" />
-    <state width="1557" height="150" key="GridCell.Tab.0.left" timestamp="1576550769520">
+    <state width="1557" height="150" key="GridCell.Tab.0.left" timestamp="1576553243735">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="378" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509862387" />
-    <state width="1557" height="150" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576550769520" />
+    <state width="1557" height="150" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576553243735" />
     <state width="1557" height="276" key="GridCell.Tab.0.left/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450472933" />
-    <state width="1557" height="150" key="GridCell.Tab.0.right" timestamp="1576550769520">
+    <state width="1557" height="150" key="GridCell.Tab.0.right" timestamp="1576553243735">
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="378" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509862387" />
-    <state width="1557" height="150" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576550769520" />
+    <state width="1557" height="150" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576553243735" />
     <state width="1557" height="276" key="GridCell.Tab.0.right/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450472933" />
     <state width="1557" height="276" key="GridCell.Tab.1.bottom" timestamp="1576450472933">
       <screen x="3200" y="0" width="1600" height="860" />
@@ -356,11 +353,11 @@
       <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="1903" y="75" key="SettingsEditor/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576437710511" />
-    <state x="392" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576509807608">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state x="1992" y="165" key="Vcs.Push.Dialog.v2" timestamp="1576551414790">
+      <screen x="1600" y="0" width="1600" height="860" />
     </state>
     <state x="392" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@0.0.1600.860" timestamp="1576509807608" />
-    <state x="1992" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576446164798" />
+    <state x="1992" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@1600.0.1600.860" timestamp="1576551414790" />
     <state x="3592" y="165" key="Vcs.Push.Dialog.v2/1600.0.1600.860/3200.0.1600.860/0.0.1600.860@3200.0.1600.860" timestamp="1576450467781" />
     <state x="2211" y="348" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1576435395121">
       <screen x="1600" y="0" width="1600" height="860" />
